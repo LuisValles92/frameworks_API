@@ -1,6 +1,7 @@
 # frameworks_API
   
 API hecha con PHP (PDO - MySQL).  
+Ruta: htdocs\DAW.  
   
 · Cambiar el puerto de escucha:  
 XAMPP, Apache, Config, Apache(httpd.conf), Listen 5000.  
