@@ -2,7 +2,7 @@
   
 [frameworks_API_React](https://github.com/LuisValles92/frameworks_API_React)  
   
-API hecha con PHP (PDO - MySQL).  
+API REST desarrollada con PHP (PDO - MySQL).  
 Ruta: htdocs\DAW.  
   
 · Cambiar el puerto de escucha:  
