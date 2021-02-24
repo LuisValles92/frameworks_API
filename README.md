@@ -6,7 +6,7 @@ PDO + MySQL
   
 [frameworks_API_React](https://github.com/LuisValles92/frameworks_API_React) | [Repositorio](https://github.com/LuisValles92/frameworks_API)  
     
-Ruta: htdocs\DAW.  
+· Ruta: htdocs\DAW.  
   
 · Cambiar el puerto de escucha:  
 XAMPP, Apache, Config, Apache(httpd.conf), Listen 5000.  
