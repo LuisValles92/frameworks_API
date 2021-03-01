@@ -14,5 +14,5 @@ http://localhost:5000
   
 · Nombre de la BBDD: api_rest_frameworks.  
   
-· Postman Collection: apiphp.  
+· Postman Collection: frameworks_API.  
   
