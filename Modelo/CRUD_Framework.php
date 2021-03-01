@@ -23,7 +23,7 @@ function metodoGetAll()
 {
     try {
         $conexion = Conexion::getInstance();
-        $sql = "select * from Frameworks";
+        $sql = "select * from frameworks";
         $sentencia = $conexion->prepare($sql);
         $sentencia->execute();
         $filas = $sentencia->fetchAll();
